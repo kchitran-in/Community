@@ -1,3 +1,6 @@
+<script type="text/javascript" src="https://project-sunbird.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/azc3hx/b/7/c95134bc67d3a521bb3f4331beb9b804/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&collectorId=c0598236"></script>
+
+
 ---
 name: Bug report
 about: Create a report to help us improve
